@@ -1,0 +1,4 @@
+Vlevo	525
+Vpravo 	285
+Nahoře	199
+Dole	821
